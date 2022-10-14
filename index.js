@@ -1,9 +1,9 @@
-const time1 = setTimeout(a1, 5000);
+
 
 function a1() {
     console.log(`...`)
   }
-  const time2 = setTimeout(a2, 5000);
+
 
   function a2() {
     console.log(`🔥 Server Manager | V14`)
